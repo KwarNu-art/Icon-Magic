@@ -1,0 +1,29 @@
+name: CI
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install
+        run: pip install -r requirements.txt
+      - name: Render icons
+        run: python3 tools/render_icons.py
+      - name: Test
+        run: python3 tests/test_theme.py
+      - name: Package
+        run: python3 tools/build_packages.py
+      - name: Upload debs
+        uses: actions/upload-artifact@v4
+        with:
+          name: icon-magic-debs
+          path: packaging/dist/*

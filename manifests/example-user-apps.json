@@ -1,0 +1,5 @@
+{
+  "icons": [
+    {"bundle_id": "com.example.myapp", "name": "My App", "category": "other", "glyph": "bolt"}
+  ]
+}

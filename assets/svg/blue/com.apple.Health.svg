@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180">
+  <rect width="180" height="180" fill="#080C12"/>
+  <rect x="10" y="10" width="160" height="160" rx="22" fill="#151D2A"/>
+  <rect x="18" y="16" width="144" height="4" fill="#27b8ff"/>
+  <circle cx="90" cy="96" r="36" fill="none" stroke="#27b8ff" stroke-width="3"/>
+  <text x="90" y="104" text-anchor="middle" fill="#27b8ff" font-family="monospace" font-size="14">heart</text>
+  <text x="90" y="168" text-anchor="middle" fill="#E8F0FF" font-family="monospace" font-size="8">com.apple.Health</text>
+</svg>

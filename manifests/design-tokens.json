@@ -1,0 +1,32 @@
+{
+  "theme_name": "Icon-Magic — Cyber Spectrum",
+  "package_name": "IconMagic Cyber Spectrum",
+  "package_id": "com.iconmagic.cyberspectrum",
+  "version": "1.0.0",
+  "palette": {
+    "obsidian": "#080C12",
+    "graphite": "#151D2A",
+    "terminal_green": "#39FF88",
+    "electric_blue": "#27B8FF",
+    "signal_red": "#FF4664",
+    "violet": "#9C78FF",
+    "text": "#E8F0FF"
+  },
+  "icon_size": 180,
+  "snowboard": {
+    "icon_filename_suffix": "-large.png",
+    "install_path_rootful": "/Library/Themes",
+    "install_path_rootless": "/var/jb/Library/Themes",
+    "theme_folder": "IconMagicCyberSpectrum.theme",
+    "depends": "com.spark.snowboard"
+  },
+  "research": {
+    "sources": [
+      "https://pinpal.github.io/theme-guide/ (accessed 2026-10-27)",
+      "https://github-wiki-see.page/m/Aizacktf/Snowboard/wiki/Home-Screen-Icons (accessed 2026-10-27)",
+      "https://www.sparkdev.me (accessed 2026-10-27)",
+      "https://repo.dynastic.co/snowboard (accessed 2026-10-27)"
+    ],
+    "notes": "iOS SnowBoard icons: IconBundles/{bundleId}-large.png, recommended 180x180. Do not use SnowBoardTV layer format for iPhone."
+  }
+}

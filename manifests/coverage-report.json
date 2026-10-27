@@ -1,0 +1,876 @@
+{
+  "theme": "Icon-Magic \u00e2\u20ac\u201d Cyber Spectrum",
+  "icon_count_per_variant": 48,
+  "variants": [
+    "spectrum",
+    "green",
+    "blue"
+  ],
+  "total_pngs": 144,
+  "icons": [
+    {
+      "bundle_id": "com.apple.mobilephone",
+      "name": "Phone",
+      "file": "com.apple.mobilephone-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.MobileSMS",
+      "name": "Messages",
+      "file": "com.apple.MobileSMS-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.mobilemail",
+      "name": "Mail",
+      "file": "com.apple.mobilemail-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.facetime",
+      "name": "FaceTime",
+      "file": "com.apple.facetime-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.MobileAddressBook",
+      "name": "Contacts",
+      "file": "com.apple.MobileAddressBook-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.mobilesafari",
+      "name": "Safari",
+      "file": "com.apple.mobilesafari-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.camera",
+      "name": "Camera",
+      "file": "com.apple.camera-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.mobileslideshow",
+      "name": "Photos",
+      "file": "com.apple.mobileslideshow-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.Preferences",
+      "name": "Settings",
+      "file": "com.apple.Preferences-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.mobiletimer",
+      "name": "Clock",
+      "file": "com.apple.mobiletimer-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.mobilecal",
+      "name": "Calendar",
+      "file": "com.apple.mobilecal-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.Maps",
+      "name": "Maps",
+      "file": "com.apple.Maps-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.Music",
+      "name": "Music",
+      "file": "com.apple.Music-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.DocumentsApp",
+      "name": "Files",
+      "file": "com.apple.DocumentsApp-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.AppStore",
+      "name": "App Store",
+      "file": "com.apple.AppStore-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.MobileStore",
+      "name": "iTunes Store",
+      "file": "com.apple.MobileStore-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.Weather",
+      "name": "Weather",
+      "file": "com.apple.Weather-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.calculator",
+      "name": "Calculator",
+      "file": "com.apple.calculator-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.compass",
+      "name": "Compass",
+      "file": "com.apple.compass-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.Passbook",
+      "name": "Wallet",
+      "file": "com.apple.Passbook-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.Health",
+      "name": "Health",
+      "file": "com.apple.Health-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.news",
+      "name": "News",
+      "file": "com.apple.news-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.tv",
+      "name": "TV",
+      "file": "com.apple.tv-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.Home",
+      "name": "Home",
+      "file": "com.apple.Home-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.Shortcuts",
+      "name": "Shortcuts",
+      "file": "com.apple.Shortcuts-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.tips",
+      "name": "Tips",
+      "file": "com.apple.tips-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.VoiceMemos",
+      "name": "Voice Memos",
+      "file": "com.apple.VoiceMemos-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.podcasts",
+      "name": "Podcasts",
+      "file": "com.apple.podcasts-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.iBooks",
+      "name": "Books",
+      "file": "com.apple.iBooks-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.stocks",
+      "name": "Stocks",
+      "file": "com.apple.stocks-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.findmy",
+      "name": "Find My",
+      "file": "com.apple.findmy-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.mobilenotes",
+      "name": "Notes",
+      "file": "com.apple.mobilenotes-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.reminders",
+      "name": "Reminders",
+      "file": "com.apple.reminders-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.TestFlight",
+      "name": "TestFlight",
+      "file": "com.apple.TestFlight-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.Bridge",
+      "name": "Watch",
+      "file": "com.apple.Bridge-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "ph.telegra.Telegraph",
+      "name": "Telegram",
+      "file": "ph.telegra.Telegraph-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "net.whatsapp.WhatsApp",
+      "name": "WhatsApp",
+      "file": "net.whatsapp.WhatsApp-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.burbn.instagram",
+      "name": "Instagram",
+      "file": "com.burbn.instagram-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.google.chrome.ios",
+      "name": "Chrome",
+      "file": "com.google.chrome.ios-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.google.Gmail",
+      "name": "Gmail",
+      "file": "com.google.Gmail-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.spotify.client",
+      "name": "Spotify",
+      "file": "com.spotify.client-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.hammerandchisel.discord",
+      "name": "Discord",
+      "file": "com.hammerandchisel.discord-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.atebits.Tweetie2",
+      "name": "X",
+      "file": "com.atebits.Tweetie2-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.facebook.Facebook",
+      "name": "Facebook",
+      "file": "com.facebook.Facebook-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.toyopagroup.picaboo",
+      "name": "Snapchat",
+      "file": "com.toyopagroup.picaboo-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.zhiliaoapp.musically",
+      "name": "TikTok",
+      "file": "com.zhiliaoapp.musically-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.measure",
+      "name": "Measure",
+      "file": "com.apple.measure-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.Translate",
+      "name": "Translate",
+      "file": "com.apple.Translate-large.png",
+      "variant": "spectrum"
+    },
+    {
+      "bundle_id": "com.apple.mobilephone",
+      "name": "Phone",
+      "file": "com.apple.mobilephone-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.MobileSMS",
+      "name": "Messages",
+      "file": "com.apple.MobileSMS-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.mobilemail",
+      "name": "Mail",
+      "file": "com.apple.mobilemail-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.facetime",
+      "name": "FaceTime",
+      "file": "com.apple.facetime-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.MobileAddressBook",
+      "name": "Contacts",
+      "file": "com.apple.MobileAddressBook-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.mobilesafari",
+      "name": "Safari",
+      "file": "com.apple.mobilesafari-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.camera",
+      "name": "Camera",
+      "file": "com.apple.camera-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.mobileslideshow",
+      "name": "Photos",
+      "file": "com.apple.mobileslideshow-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.Preferences",
+      "name": "Settings",
+      "file": "com.apple.Preferences-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.mobiletimer",
+      "name": "Clock",
+      "file": "com.apple.mobiletimer-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.mobilecal",
+      "name": "Calendar",
+      "file": "com.apple.mobilecal-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.Maps",
+      "name": "Maps",
+      "file": "com.apple.Maps-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.Music",
+      "name": "Music",
+      "file": "com.apple.Music-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.DocumentsApp",
+      "name": "Files",
+      "file": "com.apple.DocumentsApp-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.AppStore",
+      "name": "App Store",
+      "file": "com.apple.AppStore-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.MobileStore",
+      "name": "iTunes Store",
+      "file": "com.apple.MobileStore-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.Weather",
+      "name": "Weather",
+      "file": "com.apple.Weather-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.calculator",
+      "name": "Calculator",
+      "file": "com.apple.calculator-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.compass",
+      "name": "Compass",
+      "file": "com.apple.compass-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.Passbook",
+      "name": "Wallet",
+      "file": "com.apple.Passbook-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.Health",
+      "name": "Health",
+      "file": "com.apple.Health-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.news",
+      "name": "News",
+      "file": "com.apple.news-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.tv",
+      "name": "TV",
+      "file": "com.apple.tv-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.Home",
+      "name": "Home",
+      "file": "com.apple.Home-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.Shortcuts",
+      "name": "Shortcuts",
+      "file": "com.apple.Shortcuts-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.tips",
+      "name": "Tips",
+      "file": "com.apple.tips-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.VoiceMemos",
+      "name": "Voice Memos",
+      "file": "com.apple.VoiceMemos-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.podcasts",
+      "name": "Podcasts",
+      "file": "com.apple.podcasts-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.iBooks",
+      "name": "Books",
+      "file": "com.apple.iBooks-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.stocks",
+      "name": "Stocks",
+      "file": "com.apple.stocks-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.findmy",
+      "name": "Find My",
+      "file": "com.apple.findmy-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.mobilenotes",
+      "name": "Notes",
+      "file": "com.apple.mobilenotes-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.reminders",
+      "name": "Reminders",
+      "file": "com.apple.reminders-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.TestFlight",
+      "name": "TestFlight",
+      "file": "com.apple.TestFlight-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.Bridge",
+      "name": "Watch",
+      "file": "com.apple.Bridge-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "ph.telegra.Telegraph",
+      "name": "Telegram",
+      "file": "ph.telegra.Telegraph-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "net.whatsapp.WhatsApp",
+      "name": "WhatsApp",
+      "file": "net.whatsapp.WhatsApp-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.burbn.instagram",
+      "name": "Instagram",
+      "file": "com.burbn.instagram-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.google.chrome.ios",
+      "name": "Chrome",
+      "file": "com.google.chrome.ios-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.google.Gmail",
+      "name": "Gmail",
+      "file": "com.google.Gmail-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.spotify.client",
+      "name": "Spotify",
+      "file": "com.spotify.client-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.hammerandchisel.discord",
+      "name": "Discord",
+      "file": "com.hammerandchisel.discord-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.atebits.Tweetie2",
+      "name": "X",
+      "file": "com.atebits.Tweetie2-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.facebook.Facebook",
+      "name": "Facebook",
+      "file": "com.facebook.Facebook-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.toyopagroup.picaboo",
+      "name": "Snapchat",
+      "file": "com.toyopagroup.picaboo-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.zhiliaoapp.musically",
+      "name": "TikTok",
+      "file": "com.zhiliaoapp.musically-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.measure",
+      "name": "Measure",
+      "file": "com.apple.measure-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.Translate",
+      "name": "Translate",
+      "file": "com.apple.Translate-large.png",
+      "variant": "green"
+    },
+    {
+      "bundle_id": "com.apple.mobilephone",
+      "name": "Phone",
+      "file": "com.apple.mobilephone-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.MobileSMS",
+      "name": "Messages",
+      "file": "com.apple.MobileSMS-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.mobilemail",
+      "name": "Mail",
+      "file": "com.apple.mobilemail-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.facetime",
+      "name": "FaceTime",
+      "file": "com.apple.facetime-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.MobileAddressBook",
+      "name": "Contacts",
+      "file": "com.apple.MobileAddressBook-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.mobilesafari",
+      "name": "Safari",
+      "file": "com.apple.mobilesafari-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.camera",
+      "name": "Camera",
+      "file": "com.apple.camera-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.mobileslideshow",
+      "name": "Photos",
+      "file": "com.apple.mobileslideshow-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.Preferences",
+      "name": "Settings",
+      "file": "com.apple.Preferences-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.mobiletimer",
+      "name": "Clock",
+      "file": "com.apple.mobiletimer-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.mobilecal",
+      "name": "Calendar",
+      "file": "com.apple.mobilecal-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.Maps",
+      "name": "Maps",
+      "file": "com.apple.Maps-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.Music",
+      "name": "Music",
+      "file": "com.apple.Music-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.DocumentsApp",
+      "name": "Files",
+      "file": "com.apple.DocumentsApp-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.AppStore",
+      "name": "App Store",
+      "file": "com.apple.AppStore-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.MobileStore",
+      "name": "iTunes Store",
+      "file": "com.apple.MobileStore-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.Weather",
+      "name": "Weather",
+      "file": "com.apple.Weather-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.calculator",
+      "name": "Calculator",
+      "file": "com.apple.calculator-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.compass",
+      "name": "Compass",
+      "file": "com.apple.compass-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.Passbook",
+      "name": "Wallet",
+      "file": "com.apple.Passbook-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.Health",
+      "name": "Health",
+      "file": "com.apple.Health-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.news",
+      "name": "News",
+      "file": "com.apple.news-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.tv",
+      "name": "TV",
+      "file": "com.apple.tv-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.Home",
+      "name": "Home",
+      "file": "com.apple.Home-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.Shortcuts",
+      "name": "Shortcuts",
+      "file": "com.apple.Shortcuts-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.tips",
+      "name": "Tips",
+      "file": "com.apple.tips-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.VoiceMemos",
+      "name": "Voice Memos",
+      "file": "com.apple.VoiceMemos-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.podcasts",
+      "name": "Podcasts",
+      "file": "com.apple.podcasts-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.iBooks",
+      "name": "Books",
+      "file": "com.apple.iBooks-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.stocks",
+      "name": "Stocks",
+      "file": "com.apple.stocks-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.findmy",
+      "name": "Find My",
+      "file": "com.apple.findmy-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.mobilenotes",
+      "name": "Notes",
+      "file": "com.apple.mobilenotes-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.reminders",
+      "name": "Reminders",
+      "file": "com.apple.reminders-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.TestFlight",
+      "name": "TestFlight",
+      "file": "com.apple.TestFlight-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.Bridge",
+      "name": "Watch",
+      "file": "com.apple.Bridge-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "ph.telegra.Telegraph",
+      "name": "Telegram",
+      "file": "ph.telegra.Telegraph-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "net.whatsapp.WhatsApp",
+      "name": "WhatsApp",
+      "file": "net.whatsapp.WhatsApp-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.burbn.instagram",
+      "name": "Instagram",
+      "file": "com.burbn.instagram-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.google.chrome.ios",
+      "name": "Chrome",
+      "file": "com.google.chrome.ios-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.google.Gmail",
+      "name": "Gmail",
+      "file": "com.google.Gmail-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.spotify.client",
+      "name": "Spotify",
+      "file": "com.spotify.client-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.hammerandchisel.discord",
+      "name": "Discord",
+      "file": "com.hammerandchisel.discord-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.atebits.Tweetie2",
+      "name": "X",
+      "file": "com.atebits.Tweetie2-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.facebook.Facebook",
+      "name": "Facebook",
+      "file": "com.facebook.Facebook-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.toyopagroup.picaboo",
+      "name": "Snapchat",
+      "file": "com.toyopagroup.picaboo-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.zhiliaoapp.musically",
+      "name": "TikTok",
+      "file": "com.zhiliaoapp.musically-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.measure",
+      "name": "Measure",
+      "file": "com.apple.measure-large.png",
+      "variant": "blue"
+    },
+    {
+      "bundle_id": "com.apple.Translate",
+      "name": "Translate",
+      "file": "com.apple.Translate-large.png",
+      "variant": "blue"
+    }
+  ]
+}
